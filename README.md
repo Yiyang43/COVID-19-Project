@@ -1,1 +1,1 @@
-This Repository will hold all of the code and queries of the projects from the Portfolio Website Projects I created!:D
+This Repository will hold the dataset, code, and queries of the COVID-19 project from my Portfolio Website:D
